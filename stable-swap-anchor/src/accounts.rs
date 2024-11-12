@@ -1,3 +1,5 @@
+#![allow(missing_docs)]
+
 //! Accounts structs for StableSwap.
 
 use anchor_lang::prelude::*;
